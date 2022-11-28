@@ -8,6 +8,7 @@
         public int Age { get; set; }
 
         //alskfijebghhguhegjw
+        //DIMsdimS
 
         public Student(int id, string name, int age)
         {
